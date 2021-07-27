@@ -1,7 +1,7 @@
 #ifndef ALGORITHMS_H_INCLUDED
 #define ALGORITHMS_H_INCLUDED
 
-#define MAX_PATH 260
+
 
 
 
