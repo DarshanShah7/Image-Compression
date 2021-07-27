@@ -120,7 +120,7 @@ int main(int argc, char ** argv)
 void print_help(){
 
     printf("This program compress and decompress grayscale bmp images\n");
-    printf("Usage: ./IMAGE_COMPRESSION.exe [-cd][-i][input file name][-o][output file name]\n");
+    printf("Usage: project [-cd][-i][input file name][-o][output file name]\n");
     printf("-c : Compress \n");
     printf("-d : Decompress\n");
 
