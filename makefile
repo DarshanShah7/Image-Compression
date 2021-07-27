@@ -1,9 +1,9 @@
 OBJS	= algorithms.o error.o image_compression.o input_output.o lzw.o main.o quantization.o
 SOURCE	= algorithms.c error.c image_compression.c input_output.c lzw.c main.c quantization.c
 HEADER	= algorithms.h error.h image_compression.h input_output.h lzw.h main.h quantization.h
-OUT	= project
+OUT	= 
 CC	 = gcc
-FLAGS	 = -g -c -Wall
+FLAGS	 = -g -c
 LFLAGS	 = 
 
 all: $(OBJS)
