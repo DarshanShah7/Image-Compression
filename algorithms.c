@@ -9,10 +9,10 @@
 //stores the code size in number of bits
 int  code_size;
 //stores the dictionary size
-dictionary_size = 12;
+int dictionary_size = 12;
 
-leftOver = 0;
-leftValue = 0;
+int leftOver = 0;
+int leftValue = 0;
 
 
 
